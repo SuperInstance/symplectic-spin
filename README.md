@@ -241,3 +241,5 @@ This is why symplectic integrators are qualitatively different from, say, RK4. R
 ## License
 
 Apache-2.0
+
+Part of the [SuperInstance OpenConstruct](https://github.com/SuperInstance/OpenConstruct) ecosystem.

@@ -1,0 +1,6 @@
+[package]
+name = "symplectic-spin"
+version = "0.1.0"
+edition = "2021"
+description = "Symplectic integrators: Euler drifts, Verlet conserves. Spin abstracts time as distance."
+license = "Apache-2.0"
